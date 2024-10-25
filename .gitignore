@@ -1,0 +1,8 @@
+_web3env/
+
+__pycache__/
+*.pyc
+
+.ipynb_checkpoints/
+
+.env
